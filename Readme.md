@@ -1,7 +1,7 @@
 Link: https://basic-calculator-tan.vercel.app/
 
 1.Addition
-![alt text](Output/cal1.png)
+![alt text](Output/calcu1.png)
 
 2.Subtraction
 ![alt text](Output/cal2.png)
