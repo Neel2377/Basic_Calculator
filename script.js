@@ -1,6 +1,6 @@
 function sum(){
-const num1 = document.getElementById("num1").value;
-const num2 = document.getElementById("num2").value;
+let num1 = parseFloat(document.getElementById("num1").value);
+let num2 = parseFloat(document.getElementById("num2").value);
 document.getElementById("result").value = num1 + num2;
 }
 
